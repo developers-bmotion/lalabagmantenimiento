@@ -231,7 +231,7 @@
                                             <h3>Mensaje (Opcional)</h3>
                                             <p><textarea name="message" cols="35" rows="5"
                                                     placeholder="Mensaje"></textarea></p>
-                                            <p><button type="submit" class="btn-submit">Inscribete</button></p>
+                                            <p><button type="submit" class="btn-submit">Inscríbete</button></p>
                                         </form>
                                         {{-- <div class="success-message-2"></div>
             							<div class="error-message-2"></div> --}}
