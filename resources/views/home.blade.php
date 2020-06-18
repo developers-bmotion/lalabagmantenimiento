@@ -85,10 +85,10 @@
             <div class="row">
                 <div class="col-md-10 col-md-offset-1">
                     <img src="/img/logo_lalabag.png" style="width: 45%; padding-bottom: 5%; padding-top: 2%" alt="">
-                    <h1 class="animate"><a href="#" title="Rosa - Responsive Coming Soon Template">¡NOS REINVENTAMOS!</a>
+                    <h1 class="animate"><a href="#" title="Rosa - Responsive Coming Soon Template">¡NOS TRASLADAMOS!</a>
                     </h1>
                     <h2 class="animate"><a href="#" title="Rosa - Responsive Coming Soon Template">
-                        ESTAMOS MEJORANDO PARA TI</a></h2>
+                        ALGO REALMENTE GENIAL ESTARÁ LLEGANDO PRONTO</a></h2>
                     <p class="intro animate">Inscríbete y se de las primeras en obtener descuentos e información de la nueva lalabag</p>
                     <div class="timerContent animate">
                         <div class="timer">
