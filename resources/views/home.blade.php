@@ -90,7 +90,7 @@
                     <h2 class="animate"><a href="#" title="Rosa - Responsive Coming Soon Template">UNA NUEVA FORMA DE
                             COMPRAR AHORRANDO</a></h2>
                     <p class="intro animate">Nuestro sitio web esta construcción. Suscríbete y sé de los primeros en
-                        disfrutar a CUBATAO.COM</p>
+                        disfrutar la nueva Lalabag</p>
                     <div class="timerContent animate">
                         <div class="timer">
                             <ul>
