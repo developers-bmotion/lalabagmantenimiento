@@ -87,8 +87,7 @@
                     <img src="/img/logo_lalabag.png" style="width: 45%; padding-bottom: 5%; padding-top: 5%" alt="">
                     <h1 class="animate"><a href="#" title="Rosa - Responsive Coming Soon Template">¡PROXIMAMENTE!</a>
                     </h1>
-                    <h2 class="animate"><a href="#" title="Rosa - Responsive Coming Soon Template">UNA NUEVA FORMA DE
-                            COMPRAR AHORRANDO</a></h2>
+                    <h2 class="animate"><a href="#" title="Rosa - Responsive Coming Soon Template">UNA NUEVA MANERA DE COMPRAR</a></h2>
                     <p class="intro animate">Nuestro sitio web esta construcción. Suscríbete y sé de los primeros en
                         disfrutar la nueva Lalabag</p>
                     <div class="timerContent animate">
