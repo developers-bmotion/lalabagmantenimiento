@@ -84,7 +84,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-10 col-md-offset-1">
-                    <img src="/img/logo_lalabag.png" style="width: 45%; padding-bottom: 5%; padding-top: 5%" alt="">
+                    <img src="/img/logo_lalabag.png" style="width: 45%; padding-bottom: 5%; padding-top: 2%" alt="">
                     <h1 class="animate"><a href="#" title="Rosa - Responsive Coming Soon Template">¡NOS REIVENTAMOS!</a>
                     </h1>
                     <h2 class="animate"><a href="#" title="Rosa - Responsive Coming Soon Template">
