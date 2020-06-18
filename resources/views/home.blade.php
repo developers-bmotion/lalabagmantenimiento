@@ -210,7 +210,7 @@
 						=============================================== -->
                         <div class="morph-button morph-button-modal morph-button-modal-3 morph-button-fixed">
                             <a href="#" class="button">
-                                <h3>Toca aquí para suscribirte</h3><span>Escribenos!</span>
+                                <h3>Toca aquí para inscribirte</h3><span>Escribenos!</span>
                             </a>
                             <div class="morph-content">
                                 <div>
@@ -219,7 +219,7 @@
                                             <span class="button-close-icon" aria-hidden="true"
                                                 data-icon="&#x51;"></span>
                                         </div>
-                                        <h2>Suscripción</h2>
+                                        <h2>Inscripción</h2>
                                         <form method="POST" action="{{ route('register') }}">
                                             @csrf
                                             <h3>Nombre <span style="color: #E04131">*</span></h3>
@@ -231,7 +231,7 @@
                                             <h3>Mensaje (Opcional)</h3>
                                             <p><textarea name="message" cols="35" rows="5"
                                                     placeholder="Mensaje"></textarea></p>
-                                            <p><button type="submit" class="btn-submit">Suscribir</button></p>
+                                            <p><button type="submit" class="btn-submit">Inscribete</button></p>
                                         </form>
                                         {{-- <div class="success-message-2"></div>
             							<div class="error-message-2"></div> --}}
